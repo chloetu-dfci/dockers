@@ -1,1 +1,1 @@
-# Holding dockerfiles + wdls for Terra projects
+Holding dockerfiles + wdls for Terra projects
